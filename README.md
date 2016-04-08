@@ -11,6 +11,6 @@ local environment (complete)
   - index.html
   - index.js
 
-gulp tasks (in progress)
+gulp tasks (complete)
   - lint files
   - run server
