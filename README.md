@@ -28,3 +28,7 @@ $ node index.js (FIXED)
 
 $ gulp (FIXED)
   - Task 'defult' is not gulp file see docs gulpfile fomatting
+
+NEXT TASK(S):
+  - NPM bootstrap
+  - Host 
