@@ -15,7 +15,7 @@ gulp tasks (complete)
   - lint files
   - run server
 
-Trying to serve static html page (errors)
+Trying to serve static html page (ERRORS FIXED)
 
 $ gulp (FIXED)
   - Error: Cannot find module 'gulp-jshint'
@@ -26,5 +26,5 @@ $ node index.js (FIXED)
 $ node index.js (FIXED)
   - Cannot GET/
 
-$ gulp
+$ gulp (FIXED)
   - Task 'defult' is not gulp file see docs gulpfile fomatting
