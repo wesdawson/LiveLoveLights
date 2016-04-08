@@ -23,7 +23,7 @@ $ gulp (FIXED)
 $ node index.js (FIXED)
   - TypeError: app.configure is not a function
 
-$ node index.js
+$ node index.js (FIXED)
   - Cannot GET/
 
 $ gulp
