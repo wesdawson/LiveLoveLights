@@ -16,9 +16,7 @@ gulp tasks (complete)
   - run server
 
 Trying to serve static html page
-
   gulp
     - Error: Cannot find module 'gulp-jshint'
-    
   node index.js
     - TypeError: app.configure is not a function
