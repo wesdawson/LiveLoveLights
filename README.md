@@ -17,11 +17,14 @@ gulp tasks (complete)
 
 Trying to serve static html page (errors)
 
-gulp
+$ gulp (FIXED)
   - Error: Cannot find module 'gulp-jshint'
 
-node index.js (FIXED)
+$ node index.js (FIXED)
   - TypeError: app.configure is not a function
 
-node index.js
+$ node index.js
   - Cannot GET/
+
+$ gulp
+  - Task 'defult' is not gulp file see docs gulpfile fomatting
