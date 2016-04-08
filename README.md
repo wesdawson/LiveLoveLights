@@ -14,3 +14,9 @@ local environment (complete)
 gulp tasks (complete)
   - lint files
   - run server
+
+Trying to serve static html page
+  gulp
+    Error: Cannot find module 'gulp-jshint'
+  node index.js
+    TypeError: app.configure is not a function 
